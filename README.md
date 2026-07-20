@@ -64,9 +64,3 @@ IMDB Movie Reviews Dataset (Preprocessed)
 ### Top 20 Negative Words
 
 ![Top Negative Words](images/top20_negative_words.png)
-
-## Author
-
-**Ama Nethmee Berugoda**
-
-GitHub: https://github.com/amanethmeeberugoda-source
